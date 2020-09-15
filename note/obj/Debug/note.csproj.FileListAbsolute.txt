@@ -1,0 +1,29 @@
+c:\users\ali\documents\visual studio 2012\Projects\note\note\bin\Debug\note.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\note\note\bin\Debug\note.exe
+c:\users\ali\documents\visual studio 2012\Projects\note\note\bin\Debug\note.pdb
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.exe
+c:\users\ali\documents\visual studio 2012\Projects\note\note\obj\Debug\note.pdb
+C:\Users\Ali\Desktop\myproject\note\note\bin\Debug\note.exe.config
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.exe
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.pdb
+C:\Users\Ali\Desktop\myproject\note\note\bin\Debug\note.exe
+C:\Users\Ali\Desktop\myproject\note\note\bin\Debug\note.pdb
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.Form1.resources
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\myproject\note\note\obj\Debug\note.search.resources
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\bin\Debug\note.exe.config
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.exe
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.pdb
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\bin\Debug\note.exe
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\bin\Debug\note.pdb
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.Form1.resources
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.search.resources
+C:\Users\Ali\Desktop\myproject\ALI note IT\note\obj\Debug\note.csproj.GenerateResource.Cache
